@@ -1,0 +1,13 @@
+[project]
+name = "baml-101"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "baml-py>=0.88.0",
+    "fastapi[standard]>=0.115.12",
+    "loguru>=0.7.3",
+    "pydantic>=2.11.4",
+    "uvicorn>=0.34.2",
+]
