@@ -1,6 +1,5 @@
 ## How to build a crypto sentiment parser in 2025
 
-
 With BAML, of course!
 
 - Add it to the project
